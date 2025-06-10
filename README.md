@@ -1,2 +1,2 @@
 # drive-sense-ai
-rive Sense is a real-time AI system designed to detect road hazards such as potholes, obstacles, and dangerous driving environments. Built using computer vision and trained on diverse datasets, it aims to improve road safety and support smart mobility systems.
+Drive Sense is an AI-powered system built using deep learning and computer vision to detect road hazards and predict potential accidents in real time. By analyzing video frames from traffic feeds or dashcams, it identifies threats such as obstacles, lane violations, and risky driving conditions. The project is aimed at enhancing road safety, reducing human error, and enabling smarter transport ecosystems for both individual drivers and fleet systems.
